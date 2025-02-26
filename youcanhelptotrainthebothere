@@ -1,0 +1,6 @@
+//Input some PGN or FENs here so we will train our bot by the PGN, FENs in our next update
+//How?
+//First, create a new text file name ... ( the file contain 1 or more than 2 PGNs or FENs)
+//Do //_thesidethebotneedtobetrain_ it can be black or white to train
+//Update 0.5 will update all PGNs, FENs and train them
+// In need of people testing my bot , Thanks for viewing 
